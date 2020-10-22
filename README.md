@@ -15,8 +15,4 @@
 * https://github.com/sharkattack182/project-2
 * 
 
-<img src="public\imgs\pokedex.png" alt="sign in pokedex page">
-
-<img src="public\imgs\pokedex-2.png" alt="members pokedex page">
-
-<img src="public\imgs\pokedex3.png" alt="all pokemon page"># pokedex
+pokedex
